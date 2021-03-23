@@ -206,7 +206,7 @@ p {
 /*////////////////////////////////////// Hero Section /////////////////////////////////////////////////////*/
 #hero {
 	background-image: url(./img/wall_me.jpg);
-	background-size: 950px;
+	background-size: cover;
 	background-position: top center;
 	position: relative;
 	z-index: 1;
@@ -427,7 +427,7 @@ img {vertical-align: middle;}
 	z-index: 99;
 }
 .slideshow-container2 {
-  max-width: 500px;
+  max-width: 5 00px;
   position: relative;
   margin: auto;
 	padding-top: 7rem;
