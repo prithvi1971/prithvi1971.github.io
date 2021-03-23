@@ -686,6 +686,13 @@ img {vertical-align: middle;}
 		font-size: 2.5rem;
 		padding: 20px 60px;
 	}
+	#hero {
+	background-image: url(./img/wall_me.jpg);
+	background-size: cover;
+	background-position: top center;
+	position: relative;
+	z-index: 1;
+	}
 	h1.section-title {
 		font-size: 6rem;
 	}
